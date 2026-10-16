@@ -31,7 +31,6 @@ All libraries used are part of Python's standard library. No external packages a
 
 📁 Project Structure 📁
 
-text
 personal_finance_tracker/
 │
 ├── main.py             # Main application
@@ -85,7 +84,6 @@ No additional package installation is necessary.
 
 When you run the program, the following menu appears:
 
-text
 ========================================
        PERSONAL FINANCE TRACKER
 ========================================
@@ -107,7 +105,6 @@ Adding an Income Transaction
 
 Example input:
 
-text
 Choose a category number: 1
 Enter amount: 10000
 Enter description: Monthly pocket money
@@ -133,13 +130,10 @@ These are illustrative examples for testing the application.
 
 Select option `4` and enter:
 
-text
 2026-10
-
 
 Example output:
 
-text
 =============================================
 MONTHLY FINANCIAL SUMMARY: 2026-10
 =============================================
