@@ -1,0 +1,17 @@
+{
+    "income": [
+        "Pocket Money",
+        "Salary",
+        "Scholarship",
+        "Other Income"
+    ],
+    "expense": [
+        "Food",
+        "Transport",
+        "Education",
+        "Shopping",
+        "Entertainment",
+        "Bills",
+        "Other Expense"
+    ]
+}
